@@ -6,3 +6,6 @@
 *.dsn.bak
 *.workspace
 Project Backups/
+
+# code-vision
+codevision/
