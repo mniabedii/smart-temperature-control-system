@@ -1,0 +1,7 @@
+.vscode/
+
+# proteus
+*.pdsbak
+*.pdsprj.bak
+*.dsn.bak
+*.workspace
