@@ -9,3 +9,5 @@ Project Backups/
 
 # code-vision
 codevision/
+*.cci
+*.hci
